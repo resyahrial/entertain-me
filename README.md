@@ -1,6 +1,6 @@
 # Entertain Me
 
-### [Live Site](https://kanban-5633f.web.app/)
+### [Live Site](https://expo.io/@resyahrial/projects/client)
 
 ![Entertain Me](https://i.imgur.com/6WtYIkd.png)
 
