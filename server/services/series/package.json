@@ -1,0 +1,23 @@
+{
+  "name": "services_series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon app",
+    "seed": "node seeder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ioredis": "^4.26.0",
+    "mongodb": "^3.6.6"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
